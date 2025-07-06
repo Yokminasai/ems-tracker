@@ -33,8 +33,8 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/package-tracker.git
-cd package-tracker
+git clone https://github.com/yokminasai/ems-tracker.git
+cd ems-tracker
 ```
 
 ### 2. ขอ API Key
